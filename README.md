@@ -48,4 +48,5 @@ TODOs for the future:
 - Add controller (with approriate APIs) and page for editing user data
 - Add option to add files/photos etc and save it
 - Consider Markdown files or some other approach giving the user more freedom to present the article
+- Add Dto in the name of DTOs
 - Various TODOs in the code for small changes
